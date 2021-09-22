@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="foodtech_bx">
+    <serverData>
+      <paths name="foodtech-yii">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="foodtech_bx">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/local/foodtech-theme/img" />
+            <excludedPath path="/bitrix/bitrix.php" />
+            <excludedPath path="/bitrix/composer-bx.json" />
+            <excludedPath path="/bitrix/composer.json.example" />
+            <excludedPath path="/bitrix/coupon_activation.php" />
+            <excludedPath path="/bitrix/footer.php" />
+            <excludedPath path="/bitrix/header.php" />
+            <excludedPath path="/bitrix/index.php" />
+            <excludedPath path="/bitrix/license_key.php" />
+            <excludedPath path="/bitrix/p3p.xml" />
+            <excludedPath path="/bitrix/routing_index.php" />
+            <excludedPath path="/bitrix/rss.php" />
+            <excludedPath path="/bitrix/spread.php" />
+            <excludedPath path="/bitrix/urlrewrite.php" />
+            <excludedPath path="/bitrix/virtual_file_system.php" />
+            <excludedPath path="/bitrix/admin" />
+            <excludedPath path="/bitrix/blocks" />
+            <excludedPath path="/bitrix/cache" />
+            <excludedPath path="/bitrix/components" />
+            <excludedPath path="/bitrix/css" />
+            <excludedPath path="/bitrix/fonts" />
+            <excludedPath path="/bitrix/gadgets" />
+            <excludedPath path="/bitrix/image_uploader" />
+            <excludedPath path="/bitrix/images" />
+            <excludedPath path="/bitrix/js" />
+            <excludedPath path="/bitrix/managed_cache" />
+            <excludedPath path="/bitrix/modules" />
+            <excludedPath path="/bitrix/panel" />
+            <excludedPath path="/bitrix/php_interface" />
+            <excludedPath path="/bitrix/services" />
+            <excludedPath path="/bitrix/sounds" />
+            <excludedPath path="/bitrix/templates" />
+            <excludedPath path="/bitrix/themes" />
+            <excludedPath path="/bitrix/tmp" />
+            <excludedPath path="/bitrix/tools" />
+            <excludedPath path="/bitrix/updates" />
+            <excludedPath path="/bitrix/wizards" />
+            <excludedPath path="/bitrix/.access.php" />
+            <excludedPath path="/local/templates/.default/img" />
+            <excludedPath path="/local/templates/.default/video/demo-industry-1.mp4" />
+            <excludedPath path="/local/templates/.default/video/event.jpg" />
+            <excludedPath path="/local/templates/.default/video/fvbg_min.mp4" />
+            <excludedPath path="/local/templates/.default/video/memory-of-a-woman.jpg" />
+            <excludedPath path="/local/templates/.default/video/memory-of-a-woman.mp4" />
+            <excludedPath path="/local/templates/.default/video/presentation.jpg" />
+            <excludedPath path="/local/templates/.default/video/presentation.mp4" />
+            <excludedPath path="/local/templates/.default/video/presentation.webm" />
+            <excludedPath path="/upload/resize_cache" />
+            <excludedPath path="/upload/tmp" />
+            <excludedPath path="/upload/.htaccess" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="klyuchi">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="prokatauto62">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="prokatauto62 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pulsar.sitexpert">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tehplan">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="whitehillhotel.sitexpert">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
